@@ -27,5 +27,8 @@ img{
 body{
     color: black;
     text-align: center;
-    margin: 300px;
+    margin-top: 0px; 
+    margin-left: 300px; 
+    margin-right: 300px; 
+    margin-bottom: 0px;
 }
